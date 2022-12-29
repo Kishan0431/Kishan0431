@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Joshi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <br>
-<p align="center"> <img   src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="kishan0431" width="550"/> </p>
+<p align="center"> <img   src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="kishan0431" width="750" height="350"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan0431&label=Profile%20views&color=0e75b6&style=flat" alt="kishan0431" /> </p>
 <br>
 <p align="center">- 🌱 I’m currently learning **Web Development from Masai School**</p>
