@@ -7,7 +7,7 @@
 <br>
 <p align="left">- 🌱 I’m currently learning **Web Development from Masai School**</p>
 
-<p align="left">- 👨‍💻 All of my projects are available at [https://kishan0431.github.io/](https://kishan0431.github.io/)</p>
+<p align="left">- 👨‍💻 All of my projects are available at [https://kishan0431.github.io/</p>
 
 <p align="left">- 📫 How to reach me **joshikishanm005@gmail.com**</p>
 
