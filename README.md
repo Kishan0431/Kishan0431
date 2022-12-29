@@ -7,11 +7,11 @@
 <br>
 <p align="left">- 🌱 I’m currently learning **Web Development from Masai School**</p>
 
-<p align="left">- 👨‍💻 All of my projects are available at [https://kishan0431.github.io/</p>
+<p align="left">- 👨‍💻 All of my projects are available at https://kishan0431.github.io/</p>
 
 <p align="left">- 📫 How to reach me **joshikishanm005@gmail.com**</p>
 
-<p align="left">- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)</p>
+<p align="left">- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive</p>
 
 <p align="left">- ⚡ Fun fact **Curious to learn about emerging web technologies.**</p>
 
