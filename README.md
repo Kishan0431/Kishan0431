@@ -11,7 +11,7 @@
 
 <p align="left">- 📫 How to reach me **joshikishanm005@gmail.com**</p>
 
-<p align="left">- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive</p>
+<p align="left">- 📄 Know about my experiences https://drive.google.com/file/d/1f4kYdwXX5Jz7A6WVD0h3p8AqXu71v774/view?usp=sharing</p>
 
 <p align="left">- ⚡ Fun fact **Curious to learn about emerging web technologies.**</p>
 
