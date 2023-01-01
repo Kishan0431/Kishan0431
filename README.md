@@ -1,19 +1,24 @@
 <h3 align="left">About me:</h3>
 <h1 align="center">Hi 👋, I'm Kishan Joshi</h1>
 <h3 align="center">Full Stack Web Developer with a specialization in MERN Stack.</h3>
-<br>
+
+
 <p align="center"> <img   src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="kishan0431" width="750" height="350"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan0431&label=Profile%20views&color=0e75b6&style=flat" alt="kishan0431" /> </p>
-<br>
-<p align="left">- 🌱 I’m currently learning : <b>Web Development from Masai School</b></p>
 
-<p align="left">- 👨‍💻 All of my projects are available at : <a href="https://kishan0431.github.io/">Portfolio</a></p>
 
-<p align="left">- 📫 How to reach me : <b>joshikishanm005@gmail.com</b></p>
+- 🌱 I’m currently learning ```MERN Stack```
 
-<p align="left">- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1f4kYdwXX5Jz7A6WVD0h3p8AqXu71v774/view?usp=sharing">Resume</a></p>
+- 👨‍💻 Checkout my portfolio here [Kishan's Portfolio](https://kishan0431.github.io/)
 
-<p align="left">- ⚡ Fun fact **Curious to learn about emerging web technologies.**</p>
+- 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
+
+- 📫 If you have any query, feel free to reach at **joshikishanm005@gmail.com**
+
+- 📄 Check out my resume [Resume](https://drive.google.com/file/d/1f4kYdwXX5Jz7A6WVD0h3p8AqXu71v774/view?usp=sharing)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
