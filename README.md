@@ -56,7 +56,7 @@
 </p>
   
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan0431&show_icons=true&locale=en" alt="kishan0431" height="190" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan0431&theme=swift&show_icons=true" alt="kishan0431" height="190" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan0431&" alt="kishan0431"  height="190"/></p>
 
 
