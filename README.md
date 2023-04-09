@@ -1,6 +1,6 @@
 <h3 align="left">About me:</h3>
 <h1 align="center">Hi, I'm Kishan Joshi</h1>
-<h3 align="center">Front-end Web Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 <br/>
 
 <br/>
