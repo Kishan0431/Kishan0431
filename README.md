@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan0431&label=Profile%20views&color=0e75b6&style=flat" alt="kishan0431" /> </p>
 
 
-- 🌱 I’m currently learning ```MERN Stack```
+- 🌱 I’m currently learning ```Angular```
 
 - 👨‍💻 Checkout my portfolio here [Kishan's Portfolio](https://kishan0431.github.io/)
 
