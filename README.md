@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning ```Angular```
 
-- 👨‍💻 Checkout my portfolio here [Kishan's Portfolio](https://kishan0431.github.io/)
-
 - 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
 
 - 📫 If you have any query, feel free to reach at **joshikishanm005@gmail.com**
