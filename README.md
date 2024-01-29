@@ -11,7 +11,7 @@
 
 - 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
 
-- 📫 If you have any query, feel free to reach at **joshikishanm005@gmail.com**
+- 📫 If you have any query, feel free to reach at **kishanvjoshi1998@gmail.com**
 
 - 📄 Check out my resume [Resume](https://drive.google.com/file/d/1f4kYdwXX5Jz7A6WVD0h3p8AqXu71v774/view?usp=sharing)
 
